@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "489975827634",
+    "firebase_url": "https://youtupechannel-app.firebaseio.com",
+    "project_id": "youtupechannel-app",
+    "storage_bucket": "youtupechannel-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489975827634:android:a6d8b0acd16da7e8300dab",
+        "android_client_info": {
+          "package_name": "com.example.myfavyoutupechannels_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489975827634-h5s6ubju9qq8vr7qruvv2akn4rhf3spv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myfavyoutupechannels_firebase",
+            "certificate_hash": "083bc44956726ba04c57b88a98bffb45bec83b61"
+          }
+        },
+        {
+          "client_id": "489975827634-srg70sd53dudcp78qj1qc5nk05i8kk9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcfpFhvkK26WOdstTFT2TIZl4TMXpHSFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489975827634-srg70sd53dudcp78qj1qc5nk05i8kk9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
